@@ -2,7 +2,7 @@
 layout: post
 title:  "A walk to the office"
 date:   2015-05-15 15:21:22
-categories: rants
+categories: lessons
 ---
 
 I like walking. Walking for me meditates my mind. I have these little talks with myself. Recently I have been going through with my emotions. And I realize that instead of dwelling on things that hurts, lets focus on things that makes us happy. Easy to say but hard to do. I know "Life ain't easy", if it was, there won't be meaning in it right?

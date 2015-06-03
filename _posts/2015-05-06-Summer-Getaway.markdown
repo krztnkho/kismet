@@ -2,7 +2,7 @@
 layout: post
 title:  "Summer Getaway! version 2.0.1.5"
 date:   2015-05-06 10:47:22
-categories: badian summer
+categories: Moments
 ---
 ![TerraManna](../../../../../assets/images/landscape.jpg)
 
